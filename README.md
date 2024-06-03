@@ -1,7 +1,8 @@
 
 # Retrieval-Augmented Generation
 
-This Repo consist of muiltple ways to implement a RAG architecture.There are three multiple implementations of the RAGs.
+This Repo consist of three ways to implement a RAG architecture.This is a part of implementing a Chat-bot for my project Bhasha-Buddy
+GitHub: https://github.com/Saksham1387/Bhasha-Buddy.git
 
 ## 1. Simple 
 This is the retrivel.ipynb.This notebook consist of code for making a chatbot using a Llama-2 7B model, running locally on your machine using Ollama.The dataset was tested with was a text file contaning multiple dairy entries of people suffering from Stuttering.
