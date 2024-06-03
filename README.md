@@ -17,4 +17,6 @@ This is the Rag-graph.ipynb.This notebook the implementation of a chatbot with a
 Running all of these notebooks is very easy.
 
 1. Create a Virtual Enviornment 
-2. Run pip install -r requirements.txt
+2. Run 
+```python
+pip install -r requirements.txt
